@@ -35,7 +35,7 @@ html, body {
 	overflow-x: hidden;
 }
 body {
-	background: #efe2ba;
+	background: #d1e8e2;
 	font-size: 14px;
 	line-height: 24px;
 	color: #666;
@@ -457,7 +457,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	text-transform: uppercase;
 }
 .header .top {
-	background: #ff5050;
+	background: #4056a1;
 	line-height: 50px;
 	color: #fff;
 	padding: 0 60px;
@@ -594,7 +594,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	text-decoration: none;
 }
 .responsive-nav ul>li.active a {
-	color: #7c4dff;
+	color: #ff5050;
 }
 .no-scroll {
 	overflow: hidden;
@@ -667,7 +667,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 }
 .popup .social-nav ul li a:hover, .slide-out-popup .social-nav ul li a:hover {
 	color: #fff;
-	background: #7c4dff;
+	background: #ff5050;
 	font-weight: 700;
 	text-decoration: none;
 }
@@ -681,8 +681,8 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 }
 /*==========  Search  ==========*/
 .search-overlay {
-	background: #7c4dff;
-	background: rgba(124,77,255,.93);
+	background: #ff5050;
+	background: #ff5050;
 	-webkit-transform: scale(0);
 	-moz-transform: scale(0);
 	-ms-transform: scale(0);
@@ -775,7 +775,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	right: 0;
 }
 .slide-out-header {
-	background: #7c4dff;
+	background: #ff5050;
 	padding: 30px;
 	padding-top: 20px;
 	color: #fff;
@@ -845,11 +845,11 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	font-weight: 500;
 }
 .footer .top {
-	background: #232323;
+	background: #4056a1;
 	padding: 48px 0;
 }
 .footer .bottom {
-	background: #1c1c1c;
+	background: #4056a1;
 	line-height: 50px;
 }
 .footer h4 {
@@ -882,7 +882,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	box-shadow: 0 4px 12px rgba(0,0,0,.13), 0 6px 10px rgba(0,0,0,.3);
 }
 .social-icon:hover {
-	background: #7c4dff;
+	background: #ff5050;
 	color: #fff;
 }
 
@@ -1006,7 +1006,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	width: 14px;
 	height: 14px;
 	background: #fff;
-	border: 4px solid #7c4dff;
+	border: 4px solid #ff5050;
 	border-radius: 100%;
 	position: absolute;
 	left: -18px;
@@ -1018,7 +1018,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	width: 14px;
 	height: 14px;
 	background: #fff;
-	border: 4px solid #7c4dff;
+	border: 4px solid #ff5050;
 	border-radius: 100%;
 	position: absolute;
 	right: -18px;
@@ -1042,7 +1042,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	margin-bottom: 24px;
 }
 .service:hover {
-	background: #7c4dff;
+	background: #ff5050;
 	color: #fff;
 	box-shadow: 0 3px 6px rgba(0,0,0,.3);
 }
@@ -1109,14 +1109,14 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	height: 0;
 	border-style: solid;
 	border-width: 13px 10px 0 0;
-	border-color: #7c4dff transparent transparent transparent;
+	border-color: #ff5050 transparent transparent transparent;
 	position: absolute;
 	top: 0;
 	right: -10px;
 }
 .experience-block .meta .year {
 	display: block;
-	background: #7c4dff;
+	background: #ff5050;
 	color: #fff;
 	text-align: center;
 	font-size: 14px;
@@ -1175,7 +1175,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	}
 	.experience-block .meta:after {
 		border-width: 0 10px 13px 0;
-		border-color: transparent #7c4dff transparent transparent;
+		border-color: transparent #ff5050 transparent transparent;
 		right: auto;
 		left: -10px;
 	}
@@ -1220,7 +1220,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	width: 65px;
 	height: 3px;
 	margin: 0 auto;
-	background: #7c4dff;
+	background: #ff5050;
 	margin-bottom: 30px;
 	position: relative;
 }
@@ -1230,7 +1230,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	height: 0;
 	border-style: solid;
 	border-width: 8px 6px 0 6px;
-	border-color: #7c4dff transparent transparent transparent;
+	border-color: #ff5050 transparent transparent transparent;
 	position: absolute;
 	bottom: -8px;
 	left: 50%;
@@ -1257,7 +1257,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	box-shadow: 0 2px 4px rgba(0,0,0,.3);
 }
 .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
-	background: #7c4dff;
+	background: #ff5050;
 }
 .owl-theme .owl-nav {
 	margin-top: 0;
@@ -1285,7 +1285,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	width: 14px;
 	height: 14px;
 	background: #fff;
-	border: 4px solid #7c4dff;
+	border: 4px solid #ff5050;
 	border-radius: 100%;
 	position: absolute;
 	left: -18px;
@@ -1297,7 +1297,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	width: 14px;
 	height: 14px;
 	background: #fff;
-	border: 4px solid #7c4dff;
+	border: 4px solid #ff5050;
 	border-radius: 100%;
 	position: absolute;
 	right: -18px;
@@ -1314,7 +1314,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	width: 22px;
 	height: 22px;
 	background: #fff;
-	border: 6px solid #7c4dff;
+	border: 6px solid #ff5050;
 	position: absolute;
 	top: 0;
 	left: 50%;
@@ -1492,7 +1492,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	transition: .25s;
 }
 .icon-box:hover .icon {
-	background: #7c4dff;
+	background: #ff5050;
 	color: #fff;
 	box-shadow: 0 3px 6px rgba(0,0,0,.3);
 }
@@ -1542,7 +1542,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	visibility: visible;
 }
 .portfolio .item .overlay .background {
-	background: #7c4dff;
+	background: #ff5050;
 	background: rgba(124,77,255,.9);
 	width: 100%;
 	height: 100%;
@@ -1841,7 +1841,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	background-size: cover;
 }
 .single-blog-post .blog-header .content .date {
-	color: #7c4dff;
+	color: #ff5050;
 	text-transform: uppercase;
 	font-size: 13px;
 	line-height: 24px;
@@ -1920,7 +1920,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	color: #666;
 }
 .single-blog-post .blog-details .tags a:hover {
-	color: #7c4dff;
+	color: #ff5050;
 	text-decoration: none;
 }
 .single-blog-post .blog-details .tags span {
@@ -2015,7 +2015,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	color: #232323;
 }
 .comment .reply i {
-	color: #7c4dff;
+	color: #ff5050;
 	margin-left: 6px;
 }
 .comment .reply:hover {
