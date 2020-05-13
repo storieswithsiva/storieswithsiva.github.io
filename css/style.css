@@ -35,7 +35,7 @@ html, body {
 	overflow-x: hidden;
 }
 body {
-	background: #f5f5f5;
+	background: #efe2ba;
 	font-size: 14px;
 	line-height: 24px;
 	color: #666;
@@ -48,7 +48,7 @@ p {
 blockquote {
 	margin: 24px 0;
 	margin-left: 72px;
-	border-left: 4px solid #7c4dff;
+	border-left: 4px solid #ff5050;
 	padding: 0;
 	padding-left: 38px;
 	font-size: 16px;
@@ -79,7 +79,7 @@ blockquote footer {
 	font-size: 13px;
 	line-height: 28px;
 	text-transform: uppercase;
-	color: #7c4dff;
+	color: #ff5050;
 	margin-top: 12px;
 }
 blockquote footer:before {
@@ -92,10 +92,10 @@ a {
 	-ms-transition: .25s;
 	transition: .25s;
 	outline: none !important;
-	color: #7e50ff;
+	color: #ff5050;
 }
 a:hover {
-	color: #7e50ff;
+	color: #ff5050;
 }
 a:focus {
 	text-decoration: none;
@@ -134,7 +134,7 @@ a:hover img {
 	vertical-align: middle;
 }
 .list-icons.purple > li > i {
-	color: #7e50ff;
+	color: #ff5050;
 }
 .bold-list {
 	font-weight: 500;
@@ -246,7 +246,7 @@ h3.small-margin-bottom {
 	box-shadow: 0 3px 6px rgba(0,0,0,.3);
 }
 .solid-button.purple {
-	background: #7c4dff;
+	background: #ff5050;
 	color: #fff;
 }
 .solid-button.white {
@@ -262,7 +262,7 @@ h3.small-margin-bottom {
 	color: #232323;
 }
 .solid-button.white-purple:hover {
-	background: #7c4dff;
+	background: #ff5050;
 	color: #fff;
 }
 .solid-button.small {
@@ -282,7 +282,7 @@ h3.small-margin-bottom {
 }
 /*==========  Action Button  ==========*/
 .action-button {
-	background: #7c4dff;
+	background: #ff5050;
 	color: #fff;
 	font-size: 24px;
 	width: 60px;
@@ -314,7 +314,7 @@ input:not([type=submit]):not([type=file]), select, textarea {
 	transition: .25s;
 }
 input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
-	border-color: #7c4dff;
+	border-color: #ff5050;
 }
 .input-group {
 	margin-bottom: 28px;
@@ -364,7 +364,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 }
 .progress-bar {
 	line-height: 8px;
-	background-color: #7c4dff;
+	background-color: #ff5050;
 	box-shadow: none;
 	position: relative;
 }
@@ -457,7 +457,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	text-transform: uppercase;
 }
 .header .top {
-	background: #7c4dff;
+	background: #ff5050;
 	line-height: 50px;
 	color: #fff;
 	padding: 0 60px;
@@ -525,11 +525,11 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	border-bottom: 5px solid transparent;
 }
 .main-nav ul>li a:hover {
-	border-bottom: 5px solid #7c4dff;
+	border-bottom: 5px solid #ff5050;
 	text-decoration: none;
 }
 .main-nav ul>li.active a {
-	border-bottom: 5px solid #7c4dff;
+	border-bottom: 5px solid #ff5050;
 	text-decoration: none;
 }
 .header-action-button-wrapper {
