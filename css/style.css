@@ -29,7 +29,6 @@
    01. General Styles
    ========================================================================== */
 @import url(https://fonts.googleapis.com/css2?family=Montserrat:ital@1&family=PT+Sans+Narrow&family=Pangolin&display=swap);
-@import url(https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:ital@1&family=PT+Sans+Narrow&family=Pangolin&display=swap);
 @import url(http://fonts.googleapis.com/css?family=Raleway:400,500);
 @import url(http://fonts.googleapis.com/css?family=Lato:700);
 html, body {
@@ -411,7 +410,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	margin-top: 61px !important;
 	margin-left: 61px !important;
 	box-shadow: 0 3px 6px rgba(0,0,0,.3) !important;
-	font-family: 'Bebas Neue', cursive;
+	font-family: 'Pangolin', cursive;
 	font-weight: 500 !important;
 	top: 0;
 	left: 0;
