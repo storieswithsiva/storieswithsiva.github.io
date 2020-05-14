@@ -28,7 +28,8 @@
 /* ==========================================================================
    01. General Styles
    ========================================================================== */
-@import url(http://fonts.googleapis.com/css?family=Roboto:400,300,500,700);
+@import url(https://fonts.googleapis.com/css2?family=Montserrat:ital@1&family=PT+Sans+Narrow&family=Pangolin&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:ital@1&family=PT+Sans+Narrow&family=Pangolin&display=swap);
 @import url(http://fonts.googleapis.com/css?family=Raleway:400,500);
 @import url(http://fonts.googleapis.com/css?family=Lato:700);
 html, body {
@@ -36,10 +37,10 @@ html, body {
 }
 body {
 	background: #d1e8e2;
-	font-size: 14px;
+	font-size: 16px;
 	line-height: 24px;
 	color: #666;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Pangolin', cursive;
 	font-weight: 400;
 }
 p {
@@ -410,7 +411,7 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	margin-top: 61px !important;
 	margin-left: 61px !important;
 	box-shadow: 0 3px 6px rgba(0,0,0,.3) !important;
-	font-family: 'Roboto', sans-serif !important;
+	font-family: 'Bebas Neue', cursive;
 	font-weight: 500 !important;
 	top: 0;
 	left: 0;
