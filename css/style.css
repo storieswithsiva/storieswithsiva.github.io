@@ -29,7 +29,7 @@
    01. General Styles
    ========================================================================== */
 @import url(https://fonts.googleapis.com/css2?family=Pangolin);
-@import url(http://fonts.googleapis.com/css?family=Raleway:400,500);
+@import url(https://fonts.googleapis.com/css2?family=Roboto&display=swap);
 @import url(http://fonts.googleapis.com/css?family=Lato:700);
 html, body {
 	overflow-x: hidden;
@@ -39,7 +39,7 @@ body {
 	font-size: 16px;
 	line-height: 24px;
 	color: #666;
-	font-family: 'Pangolin', cursive;
+	font-family: 'Roboto', sans-serif;
 	font-weight: 400;
 }
 p {
